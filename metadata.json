@@ -28,16 +28,16 @@
     "description": "Michigan cannabis statutes and related rules governing licensing, operations, and enforcement."
   },
   {
-    "filename": "Admin. Rules",
+    "filename": "Index",
     "title": "Marihuana_Administrative_Rules-R-4201-to-R-4201004-(OCR)",
-    "category": "HTML",
+    "category": "rules",
     "url": "https://420tax.github.io/michigan-cannabis-compliance/rules/latest/index.html",
     "description": "Reference document or page relevant to Michigan cannabis compliance."
   },
   {
     "filename": "Marihuana_Administrative_Rules-R-4201-to-R-4201004-(OCR)",
     "title": "Marihuana_Administrative_Rules-R-4201-to-R-4201004-(OCR)",
-    "category": "PDF",
+    "category": "rules",
     "url": "https://420tax.github.io/michigan-cannabis-compliance/rules/Marihuana_Administrative_Rules-R-4201-to-R-4201004-(OCR).pdf",
     "description": "Authoritative PDF document relevant to Michigan cannabis compliance."
   },
