@@ -8,7 +8,7 @@
 | Fact CET198 – MI Marihuana Industry Fact Sheet | Guidance | [View PDF](https://420tax.github.io/michigan-cannabis-compliance/miosha/guidance/Fact_CET198%20MI%20Marihuana%20Industry%20Fact%20Sheet.pdf) |
 | Fact CET199 – Eyewash & Safety Showers | Guidance | [View PDF](https://420tax.github.io/michigan-cannabis-compliance/miosha/guidance/Fact_CET199%20Eyewash%20%26%20Safety%20Showers.pdf) |
 | MIOSHA Enforcement and Appeals Brochure| Guidance | [View PDF](https://420tax.github.io/michigan-cannabis-compliance/miosha/guidance/0146%20MIOSHA%20Enforcement%20Appeals%20Brochure.pdf)
-|MIOSHA Cannabis – State Emphasis Program (SEP)| Guidance | [View PDF] (https://420tax.github.io/michigan-cannabis-compliance/miosha/guidance/MIOSHA-COM-23-1%20Cannabis%20Pilot%20Progran%20(01-09-2025).pdf)
+| MIOSHA Cannabis – State Emphasis Program (SEP)| Guidance | [View PDF](https://420tax.github.io/michigan-cannabis-compliance/miosha/guidance/MIOSHA-COM-23-1%20Cannabis%20Pilot%20Progran%20(01-09-2025).pdf)
 |Parts 42 92 and 430 Hazard Communications and Right to Know (Presentation) | Guidance | [View PDF](https://420tax.github.io/michigan-cannabis-compliance/miosha/guidance/Parts%2042%2092%20and%20430%20Hazard%20Communications%20and%20Right%20to%20Know%20(presentation).pdf) |
 | SP-22 Right to Know Compliance Guide | Guidance | [View PDF](https://420tax.github.io/michigan-cannabis-compliance/miosha/guidance/SP-22%20Right%20to%20Know%20Compliance%20Guide.pdf) |
 | State of Colorado Guide to Safety and Health in the Marijuana Industry | Guidance | [View PDF](https://420tax.github.io/michigan-cannabis-compliance/miosha/guidance/State%20of%20Colorado%20Guide%20to%20Safety%20and%20Health%20In%20the%20Marijuana%20Industry.pdf) |
