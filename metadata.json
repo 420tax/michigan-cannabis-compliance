@@ -229,5 +229,39 @@
     "category": "miosha",
     "url": "https://420tax.github.io/michigan-cannabis-compliance/miosha/standards/Hazard Communications/CS_42_GI_92_OH_430 Hazard Communications.pdf",
     "description": "MIOSHA standard or guidance document related to workplace safety and health compliance. Applies to Michigan cannabis businesses where relevant."
+  },
+  {
+    "title": "MIOSHA Enforcement and Appeals Brochure",
+    "category": "miosha",
+    "format": "PDF",
+    "url": "https://420tax.github.io/michigan-cannabis-compliance/miosha/guidance/0146%20MIOSHA%20Enforcement%20Appeals%20Brochure.pdf",
+    "description": "Overview of MIOSHA enforcement, citation types, appeal process, and Penalty Reduction Agreements (PRA), which can reduce fines by up to 50% when violations are corrected promptly.",
+    "keywords": [
+      "MIOSHA",
+      "enforcement",
+      "appeals",
+      "PRA",
+      "citations",
+      "penalty reduction",
+      "cannabis compliance"
+    ],
+    "date_published": "2019-06-01"
+  },
+  {
+    "title": "MIOSHA Cannabis – State Emphasis Program (SEP)",
+    "category": "miosha",
+    "format": "PDF",
+    "url": "https://420tax.github.io/michigan-cannabis-compliance/miosha/guidance/MIOSHA-COM-23-1%20Cannabis%20Pilot%20Progran%20(01-09-2025).pdf",
+    "description": "Directive launching a statewide MIOSHA emphasis program focused on cannabis cultivation, harvesting, and processing facilities. Establishes inspection procedures, priority hazards, and outreach efforts to improve safety compliance.",
+    "keywords": [
+      "MIOSHA",
+      "SEP",
+      "state emphasis program",
+      "cannabis",
+      "marijuana",
+      "safety",
+      "workplace hazards"
+    ],
+    "date_published": "2025-01-09"
   }
 ]
